@@ -1,0 +1,2 @@
+# DRACO-X
+A SESSION ID  Generater for DRACO-XMD BOT
